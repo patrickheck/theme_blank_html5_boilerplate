@@ -1,0 +1,19 @@
+Version 2.1 2011-09-30
+
+* home page is now also set using internationalization add-on if present
+* removed linebreak before doctype declaration
+
+Version 2.0 2011-09-26
+
+Added the changes introduced in HTML5 Boilerplate 2.0
+* Version Number now reflects the H5PB Version is corresponds to
+* Update to Modernizr 2.0.6
+* Prompt for Chromeframe for IE6
+* Updated style.css from H5BP Master
+* Updated plugins.js from H5BP Master
+* If internationalization add-on is present then load current language from there
+
+Version 1.1 2011-06-18
+
+* Added Code to Redirect to first child if "replace_link_with_first_in_nav" is given
+* Added language code in <html> according to actual language 
